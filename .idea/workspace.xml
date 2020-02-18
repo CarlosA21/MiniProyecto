@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="57f313bf-4646-4408-a46d-4435fa460696" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WzlQWBwfUI4xEHJxUaXNGAoCNz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+  </component>
+  <component name="RunManager" selected="Python.MiniProyecto">
+    <configuration name="MiniProyecto" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CIC" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MiniProyecto.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pruebas" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CIC" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pruebas.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.MiniProyecto" />
+        <item itemvalue="Python.pruebas" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="57f313bf-4646-4408-a46d-4435fa460696" name="Default Changelist" comment="" />
+      <created>1580160287852</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580160287852</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1062" y="140" key="#MiniProyecto" timestamp="1580166212994">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state x="1062" y="140" key="#MiniProyecto/0.0.2560.1080@0.0.2560.1080" timestamp="1580166212994" />
+    <state x="1062" y="140" key="#pruebas" timestamp="1580165765140">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state x="1062" y="140" key="#pruebas/0.0.2560.1080@0.0.2560.1080" timestamp="1580165765140" />
+    <state x="1059" y="295" key="FileChooserDialogImpl" timestamp="1580166254177">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state x="1059" y="295" key="FileChooserDialogImpl/0.0.2560.1080@0.0.2560.1080" timestamp="1580166254177" />
+    <state width="2539" height="294" key="GridCell.Tab.0.bottom" timestamp="1580943974114">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state width="2539" height="294" key="GridCell.Tab.0.bottom/0.0.2560.1080@0.0.2560.1080" timestamp="1580943974114" />
+    <state width="2539" height="294" key="GridCell.Tab.0.center" timestamp="1580943974114">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state width="2539" height="294" key="GridCell.Tab.0.center/0.0.2560.1080@0.0.2560.1080" timestamp="1580943974114" />
+    <state width="2539" height="294" key="GridCell.Tab.0.left" timestamp="1580943974114">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state width="2539" height="294" key="GridCell.Tab.0.left/0.0.2560.1080@0.0.2560.1080" timestamp="1580943974114" />
+    <state width="2539" height="294" key="GridCell.Tab.0.right" timestamp="1580943974114">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state width="2539" height="294" key="GridCell.Tab.0.right/0.0.2560.1080@0.0.2560.1080" timestamp="1580943974114" />
+    <state x="781" y="183" key="SettingsEditor" timestamp="1580920775039">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state x="781" y="183" key="SettingsEditor/0.0.2560.1080@0.0.2560.1080" timestamp="1580920775039" />
+    <state x="981" y="365" key="com.intellij.ide.util.TipDialog" timestamp="1580163631943">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state x="981" y="365" key="com.intellij.ide.util.TipDialog/0.0.2560.1080@0.0.2560.1080" timestamp="1580163631943" />
+  </component>
+</project>
